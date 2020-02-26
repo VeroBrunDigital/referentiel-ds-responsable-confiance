@@ -89,7 +89,7 @@ Management: Towards an Open-Access Standard Protocol](https://aiforsocialgood.gi
 - Algorithmes publics :
     - [Guide des algorithmes publics à l'usage des administrations](https://guides.etalab.gouv.fr/algorithmes/guide/), Etalab
     - Rapport [Éthique et responsabilité des algorithmes publics](https://www.etalab.gouv.fr/wp-content/uploads/2020/01/Rapport-ENA-Ethique-et-responsabilit%C3%A9-des-algorithmes-publics.pdf), Etalab / ENA, Janvier 2020
-- [ACSEL - Baromètre de la confiance des français dans le numérique] (https://www.acsel.eu/wp-content/uploads/2020/02/Infographie-des-10-ans-Barom%C3%A8tre-confiance-ACSEL.pdf), Infographie, 25 février 2020
+- [ACSEL - Baromètre de la confiance des français dans le numérique](https://www.acsel.eu/wp-content/uploads/2020/02/Infographie-des-10-ans-Barom%C3%A8tre-confiance-ACSEL.pdf), Infographie, 25 février 2020
 
 ### En cours d'étude
 
